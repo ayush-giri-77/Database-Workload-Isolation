@@ -1,4 +1,4 @@
-package com.workloadgovernance.adaptive_multi_tenant_workload_governance;
+package com.workloadgovernance;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
