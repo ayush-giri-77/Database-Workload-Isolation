@@ -1,6 +1,6 @@
-# Database-Workload-Firebreak
+# Database-Workload-Isolation
 
-A middleware-based system designed to provide performance isolation and fair resource sharing among multiple tenants accessing a shared database.
+A middleware-based system designed to provide workload isolation and fair resource sharing among multiple tenants accessing a shared database.
 
 ## Problem
 
